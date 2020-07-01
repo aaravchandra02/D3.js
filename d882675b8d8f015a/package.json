@@ -1,0 +1,14 @@
+{
+  "name": "d882675b8d8f015a",
+  "main": "d882675b8d8f015a@44.js",
+  "version": "44.0.0",
+  "homepage": "https://observablehq.com/d/d882675b8d8f015a",
+  "author": {
+    "name": "Aarav Chandra",
+    "url": "https://observablehq.com/@aaravc"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
