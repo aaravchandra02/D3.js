@@ -1,0 +1,1 @@
+These folders contain different type of visualixations that are created using D3.js
